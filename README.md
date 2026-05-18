@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Zainab
+## Hi there, I'm Zainab
 
 🎓 Computer Science student  
 💻 Learning Java, Python, and SQL  
