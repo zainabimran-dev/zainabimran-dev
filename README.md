@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**zainabimran-dev/zainabimran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Zainab
 
-Here are some ideas to get you started:
+🎓 Computer Science student  
+💻 Learning Java, Python, and SQL  
+🚀 Currently building my first programming projects  
+📚 Passionate about improving my problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm currently learning
+- Java (OOP & problem solving)
+- Python basics
+- SQL & databases
+- Git & GitHub
+
+---
+
+## 🎯 Goals for 2026
+- Build real-world projects
+- Improve data structures & algorithms
+- Learn full-stack development (MERN stack)
+- Create a strong developer portfolio
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/zainab-imran-dev
+- GitHub: https://github.com/zainabimran-dev
+
+---
+
+⭐ *Always learning, always improving*
