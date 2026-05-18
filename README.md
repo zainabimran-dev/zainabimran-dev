@@ -4,7 +4,7 @@
 
 🎓 Computer Science student  
 💻 Learning Java, Python, and SQL  
-🚀 Currently building my first programming projects  
+🚀 Currently building my programming projects  
 📚 Passionate about improving my problem-solving skills  
 
 
