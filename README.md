@@ -11,6 +11,7 @@
 - Python advanced concepts
 - SQL & databases
 - Javascript frameworks
+- Full Stack Web Development
 
 
 ## 🎯 Goals for 2026
